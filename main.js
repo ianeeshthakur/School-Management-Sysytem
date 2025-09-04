@@ -32,7 +32,7 @@ calendar.addEventListener("click",function(){
 
 
 staff.addEventListener("click",function(){
-    window.location.href = "staff.html";
+    window.location.href = "calendar.html";
 });
 
 
