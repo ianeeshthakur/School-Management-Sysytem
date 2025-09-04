@@ -1,0 +1,47 @@
+form{
+    text-align: center;
+    
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+}
+#user{
+    font-size: 40px;
+    margin-top: 80px;
+    text-align: center;
+    height: 90px;   
+    width: 550px;
+    border-radius: 5px;
+    font-family: 'Montserrat', 'Roboto', Arial, sans-serif;
+}
+#password{
+    font-size: 40px;
+    margin-top: 80px;
+    text-align: center;
+    height: 90px;   
+    width: 550px;
+    border-radius: 5px;
+    font-family: 'Montserrat', 'Roboto', Arial, sans-serif;
+}
+
+#loginbox{
+    margin-top: 300px;
+    text-align: center;
+    margin-left: 890px;
+    border: solid black;
+    height: 500px;
+    width: 600px;
+    border-radius: 8px;
+}
+#loginbox:hover{
+    border: solid navy;
+    color: red;
+}
+small{
+    font-size: 20px;
+    
+}
+.submit{
+font-size: 40px;
+}
