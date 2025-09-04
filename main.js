@@ -32,7 +32,7 @@ calendar.addEventListener("click",function(){
 
 
 staff.addEventListener("click",function(){
-    window.location.href = "calendar.html";
+    window.location.href = "staff.html";
 });
 
 
@@ -51,4 +51,5 @@ luet.addEventListener("click",function(){
 
 cal.addEventListener("dblclick",function(){
   window.location.href="fke3bfk.html";
+
 })
